@@ -1,0 +1,15 @@
+Changes made from Rev2.0 to REV2.0.1 
+•	Descripotion and mafucfacturer specification in 8SounsdUSB_BOM.xls file.(all other files are still at REV2.0)
+
+Changes mades from REV1.0 to REV2.0
+•	Modification of footprint of L2 to package (1515)
+•	Inversion of values of R2 and R3 in schematic
+•	In schematic, on sheet XCORE1, text modified
+•	Inversion right signal from stereo output (swap from pin 25 to 26 of codec0)
+•	Modification of values assciated with C58 and C60 from 2.2uF to 2.2nF
+•	Modification of RJ-11 connecteur (schematic and layout)
+•	Inversion of all 8 differential inputs (schematic and layout)
+•	Modification of footprint for LEDS, polarity indicator on layout
+•	Modification of comments for the LEDS
+•	Polatity of external power connector was missing, is now on
+•	Connector J3 Expansion  swap from male to female

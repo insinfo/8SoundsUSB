@@ -1,0 +1,4 @@
+Added Component: Designator=Y1(X_TAL)
+Added Pin To Net: NetName=NetC37_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC38_2 Pin=Y1-2
+Added Member To Class: ClassName=CLOCKING Member=Component Y1 13MHz

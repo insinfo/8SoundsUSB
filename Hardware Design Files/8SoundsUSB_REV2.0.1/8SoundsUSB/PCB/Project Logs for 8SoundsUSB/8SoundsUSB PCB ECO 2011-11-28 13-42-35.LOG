@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=C0_AN1_1_N New Net Name=C0_AN1_1_P
+Change Net Name : Old Net Name=C0_AN1_1_P New Net Name=C0_AN1_1_N
+Change Net Name : Old Net Name=C0_AN1_2_P New Net Name=C0_AN1_2_N
+Change Net Name : Old Net Name=C0_AN1_3_N New Net Name=C0_AN1_3_P
+Change Net Name : Old Net Name=C0_AN1_3_P New Net Name=C0_AN1_3_N
+Change Differential Pair Positive Net Name : Old Net Name=C0_AN1_3_P New Net Name=C0_AN1_3_P
+Change Differential Pair Negative Net Name : Old Net Name=C0_AN1_2_N New Net Name=C0_AN1_2_N
+Change Differential Pair Negative Net Name : Old Net Name=C0_AN1_3_N New Net Name=C0_AN1_3_N

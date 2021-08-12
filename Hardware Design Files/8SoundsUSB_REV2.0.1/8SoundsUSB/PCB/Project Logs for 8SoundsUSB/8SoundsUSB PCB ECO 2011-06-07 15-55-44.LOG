@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=U16 Old DesignItemId= New DesignItemId=NC7NZ34
+Change Component Comment : Designator=U16 Old Comment=Comment New Comment=NC7NZ34
+Change Component Description : Designator=U16 Old Description= New Description=TinyLogic UHS Triple Buffer
+Change Component Library : Designator=U16 Old Library= New Library=NC7NZ34.SchLib
+Added Pin To Net: NetName=NetU15_3 Pin=U16-1
+Added Pin To Net: NetName=NetR43_2 Pin=U16-2
+Added Pin To Net: NetName=NetU15_3 Pin=U16-3
+Added Pin To Net: NetName=GND Pin=U16-4
+Added Pin To Net: NetName=NetR42_2 Pin=U16-5
+Added Pin To Net: NetName=NetU15_3 Pin=U16-6
+Added Pin To Net: NetName=NetR41_2 Pin=U16-7
+Added Pin To Net: NetName=+3V3 Pin=U16-8

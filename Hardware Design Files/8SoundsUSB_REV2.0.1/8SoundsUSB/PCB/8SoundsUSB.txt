@@ -1,0 +1,67 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Manufacturer~String~Manufacturer~100|Field=Part Number~String~Part Number~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~8SoundsUSB.PrjPCB|ReportField=ProjectFullPath~C:\SVN\Altium\8SoundsUSB\PCB\8SoundsUSB.PrjPCB|ReportField=Title~Bill of Materials For Project [8SoundsUSB.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~319|ReportField=ReportTime~17:08:48|ReportField=ReportDate~2011-04-21|ReportField=ReportDateTime~2011-04-21 17:08:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2011-04-21|ReportField=CurrentTime~17:06:21|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\SVN\Altium\8SoundsUSB\PCB\MAIN_POWER.SchDoc|ReportField=DocumentName~MAIN_POWER.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2011-04-21|ReportField=Organization~|ReportField=ProjectName~8SoundsUSB.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~8SoundsUSB.PrjPCB|ReportField=DataSourceFullPath~C:\SVN\Altium\8SoundsUSB\PCB\8SoundsUSB.PrjPCB
+ESD-USB|ESD-USB||2-0402|Tyco Electronics|SESD0402P1BN-0450-090|1
+Molex|Molex connector||MOLEX-P4|Molex|0026013115|1
+|MLCC 0.10uF 0603 X7R 50V|C?|3-0603|Murata|GRM188R71H104KA93D|2
+|MLCC 10000pF 0402 X7R 25V|C?|2-0402|Murata|GRM155R71E103KA01D|19
+|MLCC 100nF 0402 X7R 16V|C?|2-0402|Murata|GRM155R71C104KA88|29
+|MLCC 100nF 0603 X7R 16V|C?|3-0603|Murata|GRM188R71C104KA01|9
+|MLCC 10nF 0603 X7R 50V|C?|3-0603|Murata|GRM188R71H103KA01|2
+|MLCC 10uF 0805 X5R 10V|C?|6-0805|Murata|GRM21BR61A106KE19|4
+|MLCC 1uF 0603 X5R 10V|C?|3-0603|Murata|GRM188R61A105KA61|1
+|MLCC 2.2uF 0603 X5R 10V|C?|3-0603|Murata|GRM188R61A225KE34|3
+|MLCC 2.2uF 1206 X7R 50V|C?|8-1206|Murata|GRM31CR71H225KA88L|1
+|MLCC 330pF 0603 COG 50V|C?|3-0603|Murata|GRM1885C1H331JA01|1
+|MLCC 33pF 0603 COG 50V|C?|3-0603|Murata|GRM1885C1H330JA01|2
+|MLCC 4.7uF 0603 X5R 6.3V|C?|3-0603|Murata|GRM188R60J475KE19|3
+|MLCC 470pF 0603 COG 50V|C?|3-0603|Murata|GRM1885C1H471JA01D|16
+|Temperature Compensating 2700pF 0402 COG 10V|C?|2-0402|Murata|GRM1557U1A272JA01D|8
+Cap Pol1|Al Elec 100uF CaseD 16V|C?|AL_ELEC_SMD_D|Panasonic|EEEFK1C101P|5
+Cap Pol1|Al Elec 10uF CaseB 16V|C?|Capacitor|Panasonic|EEEFK1C100R|20
+Cap Pol1|Al Elec 4.7uF CaseB 35V|C?|Capacitor|Panasonic|EEEFK1V4R7R|4
+GREEN|LED, GREEN, 0603|D?|3-0603|Kingbright|APT1608CGCK|4
+330R-1500mA|Ferrite Bead, 330R AT 100MHz, 0603, 1500mA|FB?|3-0603|Murata|BLM18SG331TN1|2
+2411 02|USB 2.0 connectors  Connecteurs USB 2.0|J?|787924|Lumberg|2411 02|1
+RJ-11|RJ-11 Connector|J?|PCBComponent_1|Bel Stewart Connector|SS-6446-NF-50|8
+SJ-3524-SMT|TRS jack, 3.5mm, Switch, SMD|J?|SJ-3524-SMT|CUI|SJ-3524-SMT|1
+XTAG2IN(PLUG)|IDC Boxed Header, Right Angle, PCB Mount, Polarised, 20 Way, 2x10, 0.1" Pitch|J?|HEADER-2X10-100mil|Sullins|SBH11-PBPC-D10-RA-BK|1
+XTAG2OUT(SOCKET)|IDC Boxed Header, Straight Angle, PCB Mount, Polarised, 20 Way, 2x10, 0.1" Pitch|J?|HEADER-2X10-100mil|Sullins|SBH11-PBPC-D10-ST-BK|1
+Inductor|Power Inductor, 2.2uH, 0.7A, 260mR DCR|L?|2016(0806)|Taiyo Yuden|CBC2016T2R2M|1
+Inductor|Power Inductor, 3.3uH, 1.7A, 78mR DCR|L?|Inductor|Murata|LQH44PN3R3MP0|1
+|RES 1.5k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX1501|1
+|RES 1.8k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX1801|1
+|RES 100k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX1003|16
+|RES 10k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX1002|21
+|RES 1k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX1001|7
+|RES 2.2M 0603 5%|R?|3-0603|ROHM|MCR03EZPJ225|1
+|RES 2.2R 0603 1%|R?|3-0603|ROHM|MCR03EZPJ2R2|1
+|RES 200R 0603 1%|R?|3-0603|ROHM|MCR03EZPFX2000|1
+|RES 21k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX2102|1
+|RES 33R 0603 1%|R?|3-0603|ROHM|MCR03EZPFX33R0|18
+|RES 4.7k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX4701|12
+|RES 470R 0603 1%|R?|3-0603|ROHM|MCR03EZPFX4700|1
+|RES 47k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX4702|3
+|RES 6.8k 0603 1%|R?|3-0603|ROHM|MCR03EZPFX6801|2
+|RES 634R 0603 1%|R?|3-0603|ROHM|MCR03EZPFX6340|16
+|RES 634R 0603 1%|R?|3-0603|ROHM|MCR03EZPFX91R0|16
+|RES 8k06 0603 1%|R?|3-0603|ROHM|MCR03EZPFX8061|1
+Res1|Resistor|R?|3-0603|||2
+TP||TP?||||16
+AT25DF041A-SSH|4-megabit  2.3-volt or  2.7-volt  Minimum  SPI Serial Flash  Memory|U?|SOIC127P600-8AL|ATMEL|AT25DF041A-SSH|1
+CS2300-CP|Fractional-N Clock Multiplier with Internal LCO|U?|TSSOP50P490-10AL|Cirrus Logic|CS2300-CP|1
+CS42448|Audio CODEC, 6 In, 8 Out, 24Bit, 192kHz, 64QFP|U?|QFN50P1000X1000-64V1L|Cirrus Logic|CS42448-CQZ|2
+FAN2012|1.5A Low Voltage Current Mode Synchronous PWM Buck  Regulator|U?|MLP-6-LEAD-3X3mm|Fairchild|FAN2012|1
+LME49726MY|High Current, Low Distortion Rail-to-Rail Output Audio Operational Amplifier|U?|MUY08A_N|National Semiconductor|LME49726MY|8
+NC7NZ34|TinyLogic UHS Triple Buffer|U?|NC7NZ34|Fairchild|NC7NZ34K8X|3
+NC7SZ157P6X|TinyLogic UHS 2 Input Non-Inverting Multiplexer|U?|SOT363-6L|Fairchild|NC7SZ157P6X|1
+NC7SZU04|TinyLogic UHS Unbuffered Inverter|U?|SOT353-5L|Fairchild|NC7SZU04M5X|1
+NC7WZ07P6X|TinyLogic UHS Dual Buffer|U?|SOT363-6L|Fairchild|NC7WZ07P6X|1
+NCP1521B|1.5 MHz, 600 mA Step-Down  DC-DC Converter|U?|SOT23-5AL|ON Semiconductor|NCP1521B|1
+NCP303LSN09|Voltage Detector Serieswith Programmable Delay|U?|SOT23-5AL|ON Semiconductor|NCP303LSN09T1G|1
+NCP303LSN30T1G|Voltage Detector Series with Programmable Delay|U?|SOT23-5AL|ON Semiconductor|NCP303LSN30T1G|1
+NCP699|150 mA CMOS Low Iq LDO  with Enable in TSOP-5|U?|SOT23-5AL|ON Semiconductor|NCP699|1
+PTN78000W|1.5-A, Wide-Input Adjustable Switching Regulator|U?|PTN78000W|Texas Instrument|PTN78000W|1
+TPS2111|Dual In/Single Out Autoswitching Power MUX|U?|TSOP65P640-8AL|Texas Instrument|TPS2111|1
+USB3318|USB-IF 'High-Speed' compliant to USB 2.0|U?|QFN50P400X400-24V9L|SMSC|USB3318|1
+XS1_L2_124QFN||U?|QFN-124|||3
+XS1_L2_124QFN|XMOS XS1-L2 Processor, 124LGA|U?|QFN-124|XMOS|XS1-L02A-QF124-C4|1
+13MHz|Crystal, 13MHz, HC49/US SMD, Fundamental, 18pF, Tol. ±30ppm, Stab. ±30ppm|Y?||Abracon|ABLS2-13.000MHz-D4Y|1

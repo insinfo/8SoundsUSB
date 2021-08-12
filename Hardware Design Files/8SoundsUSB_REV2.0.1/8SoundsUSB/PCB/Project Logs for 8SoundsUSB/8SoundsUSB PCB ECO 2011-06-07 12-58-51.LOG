@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=ADC0_AIN1+ Pin=TP1-1
+Added Room: Name=CLOCKING
+Added Room: Name=CODEC0
+Added Room: Name=CODEC1
+Added Room: Name=MAIN_POWER
+Added Room: Name=PREAMP0
+Added Room: Name=PREAMP1
+Added Room: Name=XS1_SYSTEM
+Added Room: Name=XS1_XCORE0
+Added Room: Name=XS1_XCORE1

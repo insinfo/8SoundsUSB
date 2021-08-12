@@ -1,0 +1,124 @@
+Added Component: Designator=C86(3-0603)
+Added Component: Designator=C88(3-0603)
+Added Component: Designator=C93(2-0402)
+Added Component: Designator=C94(2-0402)
+Added Component: Designator=C97(3-0603)
+Added Component: Designator=C98(3-0603)
+Added Component: Designator=C99(3-0603)
+Added Component: Designator=C100(3-0603)
+Added Component: Designator=C105(2-0402)
+Added Component: Designator=C106(2-0402)
+Added Component: Designator=C134(8-1206)
+Added Component: Designator=C135(8-1206)
+Added Component: Designator=C136(8-1206)
+Added Component: Designator=C138(2-0402)
+Added Component: Designator=C139(2-0402)
+Added Component: Designator=C140(2-0402)
+Added Component: Designator=R69(3-0603)
+Added Component: Designator=R71(3-0603)
+Added Component: Designator=R79(3-0603)
+Added Component: Designator=R81(3-0603)
+Added Component: Designator=R84(3-0603)
+Added Component: Designator=R85(3-0603)
+Added Component: Designator=R86(3-0603)
+Added Component: Designator=R87(3-0603)
+Added Component: Designator=R94(3-0603)
+Added Component: Designator=R95(3-0603)
+Added Component: Designator=R96(3-0603)
+Added Component: Designator=R97(3-0603)
+Added Component: Designator=TP67(TP)
+Added Component: Designator=TP69(TP)
+Added Component: Designator=TP70(TP)
+Added Component: Designator=TP71(TP)
+Added Component: Designator=TP72(TP)
+Added Component: Designator=TP73(TP)
+Added Pin To Net: NetName=NetC86_1 Pin=C86-1
+Added Pin To Net: NetName=NetC86_2 Pin=C86-2
+Added Pin To Net: NetName=NetC88_1 Pin=C88-1
+Added Pin To Net: NetName=NetC88_2 Pin=C88-2
+Added Pin To Net: NetName=ADC0_AIN1- Pin=C93-1
+Added Pin To Net: NetName=ADC0_AIN1+ Pin=C93-2
+Added Pin To Net: NetName=ADC0_AIN3+ Pin=C94-1
+Added Pin To Net: NetName=ADC0_AIN3- Pin=C94-2
+Added Pin To Net: NetName=NetC97_1 Pin=C97-1
+Added Pin To Net: NetName=NetC97_2 Pin=C97-2
+Added Pin To Net: NetName=NetC98_1 Pin=C98-1
+Added Pin To Net: NetName=NetC98_2 Pin=C98-2
+Added Pin To Net: NetName=NetC99_1 Pin=C99-1
+Added Pin To Net: NetName=NetC99_2 Pin=C99-2
+Added Pin To Net: NetName=NetC100_1 Pin=C100-1
+Added Pin To Net: NetName=NetC100_2 Pin=C100-2
+Added Pin To Net: NetName=ADC0_AIN2+ Pin=C105-1
+Added Pin To Net: NetName=ADC0_AIN2- Pin=C105-2
+Added Pin To Net: NetName=ADC0_AIN4+ Pin=C106-1
+Added Pin To Net: NetName=ADC0_AIN4- Pin=C106-2
+Added Pin To Net: NetName=GND Pin=C134-1
+Added Pin To Net: NetName=+4V3 Pin=C134-2
+Added Pin To Net: NetName=GND Pin=C135-1
+Added Pin To Net: NetName=+4V3 Pin=C135-2
+Added Pin To Net: NetName=GND Pin=C136-1
+Added Pin To Net: NetName=+4V3 Pin=C136-2
+Added Pin To Net: NetName=GND Pin=C138-1
+Added Pin To Net: NetName=+4V3 Pin=C138-2
+Added Pin To Net: NetName=GND Pin=C139-1
+Added Pin To Net: NetName=+4V3 Pin=C139-2
+Added Pin To Net: NetName=GND Pin=C140-1
+Added Pin To Net: NetName=+4V3 Pin=C140-2
+Added Pin To Net: NetName=ADC0_AIN3- Pin=R69-1
+Added Pin To Net: NetName=NetC88_2 Pin=R69-2
+Added Pin To Net: NetName=ADC0_AIN3+ Pin=R71-1
+Added Pin To Net: NetName=NetC86_2 Pin=R71-2
+Added Pin To Net: NetName=ADC0_AIN3- Pin=R79-1
+Added Pin To Net: NetName=NetC88_1 Pin=R79-2
+Added Pin To Net: NetName=ADC0_AIN3+ Pin=R81-1
+Added Pin To Net: NetName=NetC86_1 Pin=R81-2
+Added Pin To Net: NetName=ADC0_AIN2- Pin=R84-1
+Added Pin To Net: NetName=NetC99_2 Pin=R84-2
+Added Pin To Net: NetName=ADC0_AIN4- Pin=R85-1
+Added Pin To Net: NetName=NetC100_2 Pin=R85-2
+Added Pin To Net: NetName=ADC0_AIN2+ Pin=R86-1
+Added Pin To Net: NetName=NetC97_2 Pin=R86-2
+Added Pin To Net: NetName=ADC0_AIN4+ Pin=R87-1
+Added Pin To Net: NetName=NetC98_2 Pin=R87-2
+Added Pin To Net: NetName=ADC0_AIN2- Pin=R94-1
+Added Pin To Net: NetName=NetC99_1 Pin=R94-2
+Added Pin To Net: NetName=ADC0_AIN4- Pin=R95-1
+Added Pin To Net: NetName=NetC100_1 Pin=R95-2
+Added Pin To Net: NetName=ADC0_AIN2+ Pin=R96-1
+Added Pin To Net: NetName=NetC97_1 Pin=R96-2
+Added Pin To Net: NetName=ADC0_AIN4+ Pin=R97-1
+Added Pin To Net: NetName=NetC98_1 Pin=R97-2
+Added Member To Class: ClassName=PREAMP0 Member=Component C86 
+Added Member To Class: ClassName=PREAMP0 Member=Component C88 
+Added Member To Class: ClassName=PREAMP0 Member=Component C93 
+Added Member To Class: ClassName=PREAMP0 Member=Component C94 
+Added Member To Class: ClassName=PREAMP0 Member=Component C97 
+Added Member To Class: ClassName=PREAMP0 Member=Component C98 
+Added Member To Class: ClassName=PREAMP0 Member=Component C99 
+Added Member To Class: ClassName=PREAMP0 Member=Component C100 
+Added Member To Class: ClassName=PREAMP0 Member=Component C105 
+Added Member To Class: ClassName=PREAMP0 Member=Component C106 
+Added Member To Class: ClassName=PREAMP0 Member=Component C134 
+Added Member To Class: ClassName=PREAMP0 Member=Component C135 
+Added Member To Class: ClassName=PREAMP0 Member=Component C136 
+Added Member To Class: ClassName=PREAMP0 Member=Component C138 
+Added Member To Class: ClassName=PREAMP0 Member=Component C139 
+Added Member To Class: ClassName=PREAMP0 Member=Component C140 
+Added Member To Class: ClassName=PREAMP0 Member=Component R69 
+Added Member To Class: ClassName=PREAMP0 Member=Component R71 
+Added Member To Class: ClassName=PREAMP0 Member=Component R79 
+Added Member To Class: ClassName=PREAMP0 Member=Component R81 
+Added Member To Class: ClassName=PREAMP0 Member=Component R84 
+Added Member To Class: ClassName=PREAMP0 Member=Component R85 
+Added Member To Class: ClassName=PREAMP0 Member=Component R86 
+Added Member To Class: ClassName=PREAMP0 Member=Component R87 
+Added Member To Class: ClassName=PREAMP0 Member=Component R94 
+Added Member To Class: ClassName=PREAMP0 Member=Component R95 
+Added Member To Class: ClassName=PREAMP0 Member=Component R96 
+Added Member To Class: ClassName=PREAMP0 Member=Component R97 
+Added Member To Class: ClassName=PREAMP0 Member=Component TP67 TP
+Added Member To Class: ClassName=PREAMP0 Member=Component TP69 TP
+Added Member To Class: ClassName=PREAMP0 Member=Component TP70 TP
+Added Member To Class: ClassName=PREAMP0 Member=Component TP71 TP
+Added Member To Class: ClassName=PREAMP0 Member=Component TP72 TP
+Added Member To Class: ClassName=PREAMP0 Member=Component TP73 TP

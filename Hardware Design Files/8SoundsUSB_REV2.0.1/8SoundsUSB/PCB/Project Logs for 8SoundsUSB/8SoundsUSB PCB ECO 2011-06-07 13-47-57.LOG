@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=MTH1 Old DesignItemId=Component_1 New DesignItemId=MountingHole
+Change Component DesignItemId : Designator=MTH2 Old DesignItemId=Component_1 New DesignItemId=MountingHole
+Change Component DesignItemId : Designator=MTH3 Old DesignItemId=Component_1 New DesignItemId=MountingHole
+Change Component DesignItemId : Designator=MTH4 Old DesignItemId=Component_1 New DesignItemId=MountingHole
+Added Pin To Net: NetName=GND Pin=MTH1-1
+Added Pin To Net: NetName=GND Pin=MTH2-1
+Added Pin To Net: NetName=GND Pin=MTH3-1
+Added Pin To Net: NetName=GND Pin=MTH4-1

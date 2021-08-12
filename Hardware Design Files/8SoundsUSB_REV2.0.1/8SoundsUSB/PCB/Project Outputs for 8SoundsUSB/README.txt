@@ -1,0 +1,1 @@
+Note that the board outline is in the Keepout layer .GKO.

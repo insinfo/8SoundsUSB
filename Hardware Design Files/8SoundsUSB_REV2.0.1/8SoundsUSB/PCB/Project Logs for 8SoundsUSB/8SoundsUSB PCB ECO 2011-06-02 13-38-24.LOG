@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=PTN78000
+Change Component Comment : Designator=U2 Old Comment=Comment New Comment=PTN78000W
+Change Component Description : Designator=U2 Old Description= New Description=1.5-A, Wide-Input Adjustable Switching Regulator
+Change Component Library : Designator=U2 Old Library= New Library=PTN78000W.SchLib
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U2-4
+Added Pin To Net: NetName=VEXT Pin=U2-5

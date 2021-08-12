@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ADC1_AIN2_N Pin=TP35-1
+Removed Pin From Net: NetName=ADC1_AIN2_P Pin=TP36-1
+Added Pin To Net: NetName=ADC1_AIN2_P Pin=TP35-1
+Added Pin To Net: NetName=ADC1_AIN2_N Pin=TP36-1

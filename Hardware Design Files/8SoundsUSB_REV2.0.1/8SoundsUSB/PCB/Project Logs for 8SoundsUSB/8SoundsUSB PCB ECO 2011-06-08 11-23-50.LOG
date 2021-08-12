@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=U17 Old DesignItemId= New DesignItemId=NC7NZ34
+Change Component DesignItemId : Designator=U18 Old DesignItemId= New DesignItemId=NC7NZ34
+Change Component Comment : Designator=U17 Old Comment=Comment New Comment=NC7NZ34
+Change Component Comment : Designator=U18 Old Comment=Comment New Comment=NC7NZ34
+Change Component Description : Designator=U17 Old Description= New Description=TinyLogic UHS Triple Buffer
+Change Component Description : Designator=U18 Old Description= New Description=TinyLogic UHS Triple Buffer
+Change Component Library : Designator=U17 Old Library= New Library=NC7NZ34.SchLib
+Change Component Library : Designator=U18 Old Library= New Library=NC7NZ34.SchLib
+Added Pin To Net: NetName=NetTP7_1 Pin=U17-1
+Added Pin To Net: NetName=NetR48_2 Pin=U17-2
+Added Pin To Net: NetName=NetTP7_1 Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=NetR47_2 Pin=U17-5
+Added Pin To Net: NetName=NetTP7_1 Pin=U17-6
+Added Pin To Net: NetName=NetR46_2 Pin=U17-7
+Added Pin To Net: NetName=+3V3 Pin=U17-8
+Added Pin To Net: NetName=NetTP3_1 Pin=U18-1
+Added Pin To Net: NetName=NetR51_2 Pin=U18-2
+Added Pin To Net: NetName=NetTP3_1 Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=NetR50_2 Pin=U18-5
+Added Pin To Net: NetName=NetTP3_1 Pin=U18-6
+Added Pin To Net: NetName=NetR49_2 Pin=U18-7
+Added Pin To Net: NetName=+3V3 Pin=U18-8

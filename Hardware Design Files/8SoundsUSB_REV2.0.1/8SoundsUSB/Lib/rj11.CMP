@@ -1,0 +1,16 @@
+Component   : PCBComponent_1
+PCB Library : rj11.PcbLib
+Date        : 21/04/2011
+Time        : 1:15:19 PM
+
+
+
+Dimension : 13.6652 x 20.955 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0         13        0       0        0
+ Keep Out Layer              0          1        0       0        0
+ Multi Layer                 6          0        0       0        0
+--------------------------------------------------------------------
+ Total                       6         14        0       0        0

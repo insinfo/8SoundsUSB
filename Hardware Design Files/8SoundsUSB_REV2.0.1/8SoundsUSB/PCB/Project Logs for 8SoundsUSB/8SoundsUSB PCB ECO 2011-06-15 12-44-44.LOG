@@ -1,0 +1,26 @@
+Change Net Name : Old Net Name=ADC0_AIN1+_P New Net Name=ADC0_AIN1_P
+Change Net Name : Old Net Name=ADC0_AIN1-_N New Net Name=ADC0_AIN1_N
+Change Net Name : Old Net Name=ADC0_AIN2+_P New Net Name=ADC0_AIN2_P
+Change Net Name : Old Net Name=ADC0_AIN2-_N New Net Name=ADC0_AIN2_N
+Change Net Name : Old Net Name=ADC0_AIN3+_P New Net Name=ADC0_AIN3_P
+Change Net Name : Old Net Name=ADC0_AIN3-_N New Net Name=ADC0_AIN3_N
+Change Net Name : Old Net Name=ADC0_AIN4+_P New Net Name=ADC0_AIN4_P
+Change Net Name : Old Net Name=ADC0_AIN4-_N New Net Name=ADC0_AIN4_N
+Change Net Name : Old Net Name=ADC1_AIN1+_P New Net Name=ADC1_AIN1_P
+Change Net Name : Old Net Name=ADC1_AIN1-_N New Net Name=ADC1_AIN1_N
+Change Net Name : Old Net Name=ADC1_AIN2+_P New Net Name=ADC1_AIN2_P
+Change Net Name : Old Net Name=ADC1_AIN2-_N New Net Name=ADC1_AIN2_N
+Change Net Name : Old Net Name=ADC1_AIN3+_P New Net Name=ADC1_AIN3_P
+Change Net Name : Old Net Name=ADC1_AIN3-_N New Net Name=ADC1_AIN3_N
+Change Net Name : Old Net Name=ADC1_AIN4+_P New Net Name=ADC1_AIN4_P
+Change Net Name : Old Net Name=ADC1_AIN4-_N New Net Name=ADC1_AIN4_N
+Change Net Name : Old Net Name=USB_DATA+_P New Net Name=USB_DATA_P
+Change Net Name : Old Net Name=USB_DATA-_M New Net Name=USB_DATA_M
+Added Differential Pair: Name=ADC0_AIN1
+Added Differential Pair: Name=ADC0_AIN2
+Added Differential Pair: Name=ADC0_AIN3
+Added Differential Pair: Name=ADC0_AIN4
+Added Differential Pair: Name=ADC1_AIN1
+Added Differential Pair: Name=ADC1_AIN2
+Added Differential Pair: Name=ADC1_AIN3
+Added Differential Pair: Name=ADC1_AIN4

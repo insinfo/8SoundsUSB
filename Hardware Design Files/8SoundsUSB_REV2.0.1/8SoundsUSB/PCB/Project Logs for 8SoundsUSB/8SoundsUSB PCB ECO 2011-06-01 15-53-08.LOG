@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=U8 Old DesignItemId= New DesignItemId=FAN2012
+Change Component Comment : Designator=U8 Old Comment=Comment New Comment=FAN2012
+Change Component Description : Designator=U8 Old Description= New Description=1.5A Low Voltage Current Mode Synchronous PWM Buck  Regulator
+Change Component Library : Designator=U8 Old Library= New Library=FAN2012.SchLib
+Added Pin To Net: NetName=NetR15_2 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetL2_1 Pin=U8-3
+Added Pin To Net: NetName=+5V Pin=U8-4
+Added Pin To Net: NetName=+5V Pin=U8-5
+Added Pin To Net: NetName=3V3_PG Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=GND Pin=U8-7

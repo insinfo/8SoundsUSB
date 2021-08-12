@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=CLOCKING|SchDesignator=CLOCKING|FileName=CLOCKING.SchDoc|SymbolType=Normal|RawFileName=CLOCKING.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=CODEC0|SchDesignator=CODEC0|FileName=CODEC0.SchDoc|SymbolType=Normal|RawFileName=CODEC0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=CODEC1|SchDesignator=CODEC1|FileName=CODEC1.SchDoc|SymbolType=Normal|RawFileName=CODEC1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=PREAMP0|SchDesignator=PREAMP0|FileName=PREAMP0.SchDoc|SymbolType=Normal|RawFileName=PREAMP0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=PREAMP1|SchDesignator=PREAMP1|FileName=PREAMP1.SchDoc|SymbolType=Normal|RawFileName=PREAMP1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=XS1_SYSTEM|SchDesignator=XS1_SYSTEM|FileName=XS1_SYSTEM.SchDoc|SymbolType=Normal|RawFileName=XS1_SYSTEM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=XS1_XCORE0|SchDesignator=XS1_XCORE0|FileName=XS1_XCORE0.SchDoc|SymbolType=Normal|RawFileName=XS1_XCORE0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MAIN_POWER.SchDoc|Designator=XS1_XCORE1|SchDesignator=XS1_XCORE1|FileName=XS1_XCORE1.SchDoc|SymbolType=Normal|RawFileName=XS1_XCORE1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=MAIN_POWER.SchDoc

@@ -1,0 +1,4 @@
+Change Component Description : Designator=J5 Old Description=TRS jack, 3.5mm, Switch, SMD New Description=
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetC58_2 Pin=J5-2
+Added Pin To Net: NetName=NetC60_2 Pin=J5-3

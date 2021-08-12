@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=C1_AN3_1_P Pin=J11-4
+Removed Pin From Net: NetName=C1_AN2_1_P Pin=J12-4
+Removed Pin From Net: NetName=C1_AN4_1_P Pin=J13-4
+Removed Pin From Net: NetName=ADC1_AIN2_N Pin=U20-47
+Removed Pin From Net: NetName=ADC1_AIN2_P Pin=U20-48
+Removed Pin From Net: NetName=ADC1_AIN3_N Pin=U20-49
+Removed Pin From Net: NetName=ADC1_AIN3_P Pin=U20-50
+Removed Pin From Net: NetName=ADC1_AIN4_N Pin=U20-51
+Removed Pin From Net: NetName=ADC1_AIN4_P Pin=U20-52
+Added Pin To Net: NetName=GND Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C131-2
+Added Pin To Net: NetName=GND Pin=C132-2
+Added Pin To Net: NetName=C1_AN3_1_P Pin=J11-2
+Added Pin To Net: NetName=C1_AN2_1_P Pin=J12-2
+Added Pin To Net: NetName=C1_AN4_1_P Pin=J13-2
+Added Pin To Net: NetName=GND Pin=R115-2
+Added Pin To Net: NetName=GND Pin=R130-2
+Added Pin To Net: NetName=GND Pin=R131-2
+Added Pin To Net: NetName=GND Pin=TP77-1
+Added Pin To Net: NetName=GND Pin=TP80-1
+Added Pin To Net: NetName=GND Pin=TP81-1
+Added Pin To Net: NetName=ADC1_AIN2_P Pin=U20-47
+Added Pin To Net: NetName=ADC1_AIN2_N Pin=U20-48
+Added Pin To Net: NetName=ADC1_AIN3_P Pin=U20-49
+Added Pin To Net: NetName=ADC1_AIN3_N Pin=U20-50
+Added Pin To Net: NetName=ADC1_AIN4_P Pin=U20-51
+Added Pin To Net: NetName=ADC1_AIN4_N Pin=U20-52
+Change Net Name : Old Net Name=ADC1_AIN2_N New Net Name=ADC1_AIN2_P
+Change Net Name : Old Net Name=ADC1_AIN2_P New Net Name=ADC1_AIN2_N
+Change Net Name : Old Net Name=ADC1_AIN3_N New Net Name=ADC1_AIN3_P
+Change Net Name : Old Net Name=ADC1_AIN3_P New Net Name=ADC1_AIN3_N
+Change Net Name : Old Net Name=ADC1_AIN4_N New Net Name=ADC1_AIN4_P
+Change Net Name : Old Net Name=ADC1_AIN4_P New Net Name=ADC1_AIN4_N
+Change Net Name : Old Net Name=C1_AN2_1_P New Net Name=C1_AN2_1_N
+Change Net Name : Old Net Name=C1_AN2_2_N New Net Name=C1_AN2_2_P
+Change Net Name : Old Net Name=C1_AN2_2_P New Net Name=C1_AN2_2_N
+Change Net Name : Old Net Name=C1_AN2_3_N New Net Name=C1_AN2_3_P
+Change Net Name : Old Net Name=C1_AN2_3_P New Net Name=C1_AN2_3_N
+Change Net Name : Old Net Name=C1_AN3_1_P New Net Name=C1_AN3_1_N
+Change Net Name : Old Net Name=C1_AN3_2_N New Net Name=C1_AN3_2_P
+Change Net Name : Old Net Name=C1_AN3_2_P New Net Name=C1_AN3_2_N
+Change Net Name : Old Net Name=C1_AN3_3_N New Net Name=C1_AN3_3_P
+Change Net Name : Old Net Name=C1_AN3_3_P New Net Name=C1_AN3_3_N
+Change Net Name : Old Net Name=C1_AN4_1_P New Net Name=C1_AN4_1_N
+Change Net Name : Old Net Name=C1_AN4_2_N New Net Name=C1_AN4_2_P
+Change Net Name : Old Net Name=C1_AN4_2_P New Net Name=C1_AN4_2_N
+Change Net Name : Old Net Name=C1_AN4_3_N New Net Name=C1_AN4_3_P
+Change Net Name : Old Net Name=C1_AN4_3_P New Net Name=C1_AN4_3_N

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=NetC58_2 Pin=J5-2
+Removed Pin From Net: NetName=NetC60_2 Pin=J5-3
+Removed Pin From Net: NetName=NetC90_2 Pin=TP67-1
+Removed Pin From Net: NetName=NetC96_2 Pin=TP69-1
+Removed Pin From Net: NetName=NetC101_2 Pin=TP70-1
+Removed Pin From Net: NetName=NetC102_2 Pin=TP71-1
+Removed Pin From Net: NetName=NetC107_2 Pin=TP72-1
+Removed Pin From Net: NetName=NetC108_2 Pin=TP73-1
+Removed Pin From Net: NetName=NetC113_2 Pin=TP74-1
+Removed Pin From Net: NetName=NetC114_2 Pin=TP75-1
+Removed Pin From Net: NetName=NetC119_2 Pin=TP76-1
+Removed Pin From Net: NetName=NetC120_2 Pin=TP77-1
+Removed Pin From Net: NetName=NetC125_2 Pin=TP78-1
+Removed Pin From Net: NetName=NetC126_2 Pin=TP79-1
+Removed Pin From Net: NetName=NetC131_2 Pin=TP80-1
+Removed Pin From Net: NetName=NetC132_2 Pin=TP81-1
+Added Room: Name=CODEC0
+Added Room: Name=CODEC1
+Added Room: Name=MAIN_POWER
+Added Room: Name=PREAMP0
+Added Room: Name=PREAMP1
+Added Room: Name=XS1_SYSTEM
+Added Room: Name=XS1_XCORE0
+Added Room: Name=XS1_XCORE1

@@ -1,0 +1,6 @@
+Changes made from Rev2.0 to REV2.0.1 
+•	Part number and mafucfacturer added in 8SounsdUSB-MIC_BOM.xls file. (all other files are still good at REV2.0)
+
+Changes mades from REV1.0 to REV2.0
+•	Pot changed value from 100K to 5K
+
